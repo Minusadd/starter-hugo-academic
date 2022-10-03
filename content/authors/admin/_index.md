@@ -6,6 +6,7 @@ bio: haotian_fu@brown.edu
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
+  - Meta/Lifelong Learning
 social:
   - icon: twitter
     icon_pack: fab
