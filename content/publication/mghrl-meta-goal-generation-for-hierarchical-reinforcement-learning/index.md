@@ -1,7 +1,6 @@
 ---
 title: "MGHRL: Meta Goal generation for Hierarchical Reinforcement Learning"
 publication_types:
-  - "0"
   - "3"
 authors:
   - Haotian Fu
