@@ -1,4 +1,5 @@
 ---
+url_pdf: https://arxiv.org/pdf/1909.13607.pdf
 title: "MGHRL: Meta Goal generation for Hierarchical Reinforcement Learning"
 publication_types:
   - "3"
