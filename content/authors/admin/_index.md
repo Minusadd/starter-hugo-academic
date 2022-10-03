@@ -7,6 +7,7 @@ interests:
   - Artificial Intelligence
   - Reinforcement Learning
   - Meta/Lifelong Learning
+  - Robotics
 social:
   - icon: twitter
     icon_pack: fab
