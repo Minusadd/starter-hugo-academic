@@ -1,6 +1,7 @@
 ---
 url_pdf: https://arxiv.org/abs/2009.13891.pdf
-title: "Towards Effective Context for Meta Reinforcement Learning: an Approach based on Contrastive Learning"
+publication_types:
+  - "1"
 authors:
   - Haotian Fu
   - Hongyao Tang
