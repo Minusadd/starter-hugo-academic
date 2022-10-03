@@ -1,8 +1,8 @@
 ---
 title: Haotian Fu
 role: PhD student at Brown University
-avatar_filename: ""
-bio: ""
+avatar_filename: imgonline-com-ua-resize-8nsyqvqcjglzggfa.png
+bio: "haotian_fu@brown.edu"
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
@@ -17,12 +17,10 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=btaP96wAAAAJ&hl=en
 organizations: []
-education:
-  courses: []
 superuser: true
-last_name: Bighetti
+last_name: Fu
 highlight_name: true
-first_name: Alice
+first_name: Haotian
 email: haotian_fu@brown.edu
 ---
 Hi, I'm Haotian! I'm a PhD student at Brown University. I'm advised by Prof. George Konidaris.
