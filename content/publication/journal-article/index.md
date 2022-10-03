@@ -11,10 +11,10 @@ authors:
   - Michael Littman
 author_notes: []
 doi: ""
-publication_short: "*RLDM 2022*"
+publication_short: In *RLDM 2022*
 url_video: https://www.youtube.com/watch?v=RWirtW0Bnes
-publication: "*The Multi-disciplinary Conference on Reinforcement Learning and
-  Decision Making, 2022*"
+publication: In *The Multi-disciplinary Conference on Reinforcement Learning and
+  Decision Making, 2022*
 featured: false
 tags:
   - Source Themes
