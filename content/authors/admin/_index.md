@@ -3,11 +3,14 @@ title: Haotian Fu
 role: Computer Science PhD student at Brown University
 avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
-interests:
+Interests:
   - Artificial Intelligence
   - Reinforcement Learning
   - Meta/Lifelong Learning
   - Robotics
+Service:
+  - Reviewer
+  - Highlighted Reviewer
 social:
   - icon: twitter
     icon_pack: fab
