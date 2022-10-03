@@ -1,7 +1,5 @@
 ---
-abstract: ""
-slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2206.03597.pdf
 publication_types:
   - "3"
 authors:
@@ -13,12 +11,8 @@ authors:
 author_notes: []
 publication: "*The Multi-disciplinary Conference on Reinforcement Learning and
   Decision Making, 2022*"
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: "*RLDM 2022*"
-url_source: ""
-url_video: ""
+url_video: https://www.youtube.com/watch?v=RWirtW0Bnes
 title: Meta-learning Transferable Parameterized Skills
 doi: ""
 featured: false
@@ -30,8 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 date: 2022-10-03T17:28:00.000Z
-url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+
+publishDate: 2022-01-01T00:00:00Z
+
 ---
