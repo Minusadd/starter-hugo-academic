@@ -1,7 +1,7 @@
 ---
 title: Haotian Fu
 role: PhD student at Brown University
-avatar_filename: d794cfbc-5670-4e39-9770-f2e6261b0ece_1_201_a.jpeg
+avatar_filename: ""
 bio: ""
 interests:
   - Artificial Intelligence
