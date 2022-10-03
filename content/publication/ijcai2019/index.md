@@ -12,6 +12,7 @@ authors:
 author_notes: []
 publication: In *International Joint Conference on Artificial Intelligence, 2019*
 publication_short: In *IJCAI 2019*
+url_video: https://www.youtube.com/watch?v=ndJYZFL5BxE
 title: Deep Multi Agent Reinforcement Learning with Discrete Continuous Hybrid Action Spaces
 doi: ""
 featured: true
