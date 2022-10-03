@@ -18,9 +18,9 @@ social:
     link: https://scholar.google.com/citations?user=btaP96wAAAAJ&hl=en
   - display:
       header: false
-    link: haotian_fu@brown.edu
+    link: mailto:haotian_fu@brown.edu
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 organizations: []
 superuser: true
 last_name: Fu
