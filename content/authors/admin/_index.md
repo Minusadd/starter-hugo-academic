@@ -8,9 +8,6 @@ interests:
   - Reinforcement Learning
   - Meta/Lifelong Learning
   - Robotics
-service:
-  - Reviewer
-  - Highlighted Reviewer
 social:
   - icon: twitter
     icon_pack: fab
@@ -29,8 +26,11 @@ social:
 organizations: []
 superuser: true
 last_name: Fu
+service:
+  - Reviewer
+  - Highlighted Reviewer
 highlight_name: true
 first_name: Haotian
 email: haotian_fu@brown.edu
 ---
-Hi, I'm Haotian! I'm a PhD student at Brown University, advised by Prof. [George Konidaris](https://cs.brown.edu/people/gdk/). My current research interests are centered on helping an intelligent agent learn multiple levels of highly **flexible** skills, while continue adapting to new tasks efficiently. Before, I was a Computer Science Master's student at Brown, advised by Prof. [Michael Littman](https://www.littmania.com/). Previously, I received by bachelor degree from Tianjin University, advised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). I was a visiting student at UC Berkeley in 2018. I did research internships at [Fuxi AI Lab, Netease.](http://www.neteasegames.com/), and [Noah's Ark Lab, Huawei](http://dev3.noahlab.com.hk/).
+Hi, I'm Haotian! I'm a PhD student at Brown University, advised by Prof. [George Konidaris](https://cs.brown.edu/people/gdk/). My current research interests are centered on helping an intelligent agent learn multiple levels of highly **flexible** skills, while continue adapting to new tasks efficiently. Before, I was a Computer Science Master's student at Brown, advised by Prof. [Michael Littman](https://www.littmania.com/). Previously, I received my bachelor degree from Tianjin University, advised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). I was a visiting student at UC Berkeley in 2018. I did research internships at [Fuxi AI Lab, Netease.](http://www.neteasegames.com/), and [Noah's Ark Lab, Huawei](http://dev3.noahlab.com.hk/).
