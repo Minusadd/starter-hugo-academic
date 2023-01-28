@@ -10,7 +10,7 @@ authors:
   - George Konidaris
 author_notes: []
 publication: In *Advances in Neural Information Processing Systems 35, December 2022*
-publication_short: In *NeurIPS 2022*
+publication_short: In *Advances in Neural Information Processing Systems 35 (NeurIPS), 2022*
 title: Model-based Lifelong Reinforcement Learning with Bayesian Exploration
 doi: ""
 featured: true

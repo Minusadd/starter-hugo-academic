@@ -10,7 +10,7 @@ authors:
   - Wulong Liu
   - Chen Chen
 publication: In *Beyond Tabula Rasa in Reinforcement Learning workshop at ICLR , 2020*
-publication_short: In *Beyond Tabula Rasa in Reinforcement Learning workshop at ICLR , 2020*
+publication_short: In *Beyond Tabula Rasa in Reinforcement Learning workshop at ICLR , 2020. In DAI 2020.*
 draft: false
 featured: true
 image:

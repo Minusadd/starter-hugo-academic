@@ -10,7 +10,7 @@ authors:
   - George Konidaris
 author_notes: []
 publication: In *Proceedings of the Eleventh International Conference on Learning Representations, May 2023*
-publication_short: In *ICLR 2023*
+publication_short: In *Proceedings of the Eleventh International Conference on Learning Representations (ICLR), 2023*
 title: Performance Bounds for Model and Policy Transfer in Hidden-parameter MDPs
 doi: ""
 featured: true
