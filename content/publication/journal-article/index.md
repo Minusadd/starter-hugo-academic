@@ -12,7 +12,6 @@ authors:
 author_notes: []
 doi: ""
 publication_short: In *RLDM 2022*
-url_video: https://www.youtube.com/watch?v=RWirtW0Bnes
 publication: In *The Multi-disciplinary Conference on Reinforcement Learning and
   Decision Making, 2022*
 featured: false
