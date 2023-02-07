@@ -1,5 +1,5 @@
 ---
-title: Haotian Fu
+title: Haotian Fu (傅浩天)
 role: Computer Science PhD student at Brown University
 avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
