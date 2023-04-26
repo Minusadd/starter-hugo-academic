@@ -11,7 +11,7 @@ authors:
   - George Konidaris
 author_notes: []
 doi: ""
-publication: In *Fortieth International Conference on Machine Learning (ICML), 2023.*
+publication: In *International Conference on Machine Learning (ICML), 2023.*
 publication_short: In *Fortieth International Conference on Machine Learning
   (ICML), 2023.* Short version in *RLDM 2022*
 featured: false
