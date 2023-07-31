@@ -1,5 +1,6 @@
 ---
 url_pdf: https://arxiv.org/pdf/2206.03597.pdf
+url_code: https://github.com/Minusadd/Meta-learning-parameterized-skills
 title: Meta-learning Parameterized Skills
 publication_types:
   - "1"
@@ -13,7 +14,7 @@ author_notes: []
 doi: ""
 publication: In *Fortieth International Conference on Machine Learning (ICML), 2023.*
 publication_short: In *Fortieth International Conference on Machine Learning
-  (ICML), 2023.* Short version in *RLDM 2022*
+  (ICML), 2023.
 featured: false
 tags:
   - Source Themes
