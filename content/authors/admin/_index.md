@@ -4,9 +4,9 @@ role: Computer Science PhD student at Brown University
 avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
 interests:
-  - Artificial Intelligence
+  - Embodied agents
   - Reinforcement Learning
-  - Meta/Lifelong Learning
+  - Meta/continual Learning
   - Robotics
 social:
   - icon: twitter
