@@ -29,7 +29,7 @@ last_name: Fu
 service:
   - Reviewer
   - Highlighted Reviewer
-highlight_name: true
+highlight_name: false
 first_name: Haotian
 email: haotian_fu@brown.edu
 ---
