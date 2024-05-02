@@ -21,6 +21,6 @@ image:
   focal_point: ""
   preview_only: false
 date: 2024-05-01T02:38:34.697Z
-publishDate: 2025-05-01T00:00:00.000Z
+publishDate: 2024-05-01T00:00:00.000Z
 url_code: https://github.com/Valarzz/Model-based-Reinforcement-Learning-for-Parameterized-Action-Spaces
 ---
