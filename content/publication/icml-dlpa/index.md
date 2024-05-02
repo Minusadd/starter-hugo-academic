@@ -4,8 +4,8 @@ title: Model-based Reinforcement Learning for Parameterized Action Spaces
 publication_types:
   - "1"
 authors:
-  - Renhao Zhang*
-  - Haotian Fu*
+  - Renhao Zhang <img src="/images/equalcontri.png" alt="equal contribution" style="height:16px; width:16px;"/>
+  - Haotian Fu <img src="/images/equalcontri.png" alt="equal contribution" style="height:16px; width:16px;"/>
   - Yilin Miao
   - George Konidaris
 author_notes: []
