@@ -4,11 +4,13 @@ title: Model-based Reinforcement Learning for Parameterized Action Spaces
 publication_types:
   - "1"
 authors:
-  - 'Renhao Zhang*'
-  - 'Haotian Fu*'
+  - Renhao Zhang
+  - Haotian Fu
   - Yilin Miao
   - George Konidaris
-author_notes: []
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 doi: ""
 publication: In *Forty-first International Conference on Machine Learning (ICML), 2024*
 publication_short: In *Forty-first International Conference on Machine Learning (ICML), 2024*
