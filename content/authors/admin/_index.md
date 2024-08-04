@@ -1,7 +1,7 @@
 ---
 title: Haotian Fu (傅浩天)
 role: Computer Science PhD student at Brown University
-avatar_filename: 15931722193219_.pic_hd.jpeg
+avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
 interests:
   - Embodied agents
