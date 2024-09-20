@@ -1,6 +1,6 @@
 ---
 url_pdf: https://arxiv.org/abs/2408.16090
-title: EPO: Hierarchical LLM Agents with Environment Preference Optimization
+title: EPO:Hierarchical LLM Agents with Environment Preference Optimization
 publication_types:
   - "1"
 authors:
