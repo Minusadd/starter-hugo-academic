@@ -4,7 +4,7 @@ role: Computer Science PhD student at Brown University
 avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
 interests:
-  - Embodied agents
+  - LLM agents
   - Reinforcement Learning
   - Meta/continual Learning
   - Robotics
@@ -33,5 +33,4 @@ highlight_name: false
 first_name: Haotian
 email: haotian_fu@brown.edu
 ---
-Hi, I'm Haotian! I'm a Computer Science PhD student at Brown University, advised by Prof. [George Konidaris](https://cs.brown.edu/people/gdk/). I also work closely with Prof. [Michael Littman](https://www.littmania.com/). Currently I'm a research intern at the [Boston Dynamics AI Institute](https://theaiinstitute.com/). I received my bachelor degree from Tianjin University, advised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). I was a visiting student at UC Berkeley in 2018. I﻿ have also spent time as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/), working with [Nicolas Le Roux](https://nicolas.le-roux.name/), [Xindi Yuan](https://xingdi-eric-yuan.github.io/), [
-Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/).
+Hi, I'm Haotian! I'm a Computer Science PhD student at Brown University, advised by Prof. [George Konidaris](https://cs.brown.edu/people/gdk/). I also work closely with Prof. [Michael Littman](https://www.littmania.com/). I received my bachelor degree from Tianjin University, advised by Prof. [Jianye Hao](http://www.icdai.org/jianye.html). I was a visiting student at UC Berkeley in 2018. I﻿ have also spent time as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/), Robotics & AI Institute(Former [Boston Dynamics AI Institute](https://theaiinstitute.com/)). I will join [Google Deepmind](https://deepmind.google/) as a research intern this summer.
