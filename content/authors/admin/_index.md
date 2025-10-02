@@ -5,6 +5,7 @@ avatar_filename: avatar.jpeg
 bio: haotian_fu@brown.edu
 interests:
   - LLM agents
+  - LLM post-training
   - Reinforcement Learning
   - Meta/continual Learning
   - Robotics
