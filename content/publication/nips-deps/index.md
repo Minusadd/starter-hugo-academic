@@ -21,7 +21,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2024-10-02T02:38:34.697Z
-publishDate: 2024-10-02T00:00:00.000Z
+date: 2025-10-02T02:38:34.697Z
+publishDate: 2025-10-02T00:00:00.000Z
 url_code: https://github.com/guptbot/DEPS
 ---
