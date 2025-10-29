@@ -1,5 +1,5 @@
 ---
-url_pdf: https://sites.google.com/view/parameterized-skills
+url_pdf: https://arxiv.org/pdf/2510.24095
 title: Learning Parameterized Skills from Demonstrations
 publication_types:
   - "1"
